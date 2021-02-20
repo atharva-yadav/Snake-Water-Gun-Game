@@ -1,4 +1,4 @@
-# Snake-Water_Gun-Game
+# Snake-Water-Gun-Game
 
 Snake Water Gun is one of the famous two-player games played by many children. It is very much similar to the Stone Paper Scissor game. 
 It is a game in which the player randomly chooses any of the three forms i.e. snake(S), water(W), and gun(G). Here, we have implemented this game using the python random module, if-else statements, and playsound module to produce the sound of a win, lose, or tie.
