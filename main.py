@@ -57,16 +57,16 @@ result = gameWin(comp, user) # Function call
 if(result == None):
     print("Match is tie")
     # Match tie sound generation using playsound module
-    playsound('D:\Code Environment\Programming Languages\Python\Games\Snake_Water_Gun\game-tie.mp3')
+    playsound('game-tie.mp3')
 
 elif(result == False):
     print("You Lose :(")
     # Match tie sound generation using playsound module
-    playsound('D:\Code Environment\Programming Languages\Python\Games\Snake_Water_Gun\game-lose.mp3')
+    playsound('game-lose.mp3')
 
 else:
     print("You Win :)")
     # Match tie sound generation using playsound module
-    playsound('D:\Code Environment\Programming Languages\Python\Games\Snake_Water_Gun\game-win.mp3')
+    playsound('game-win.mp3')
 
 
